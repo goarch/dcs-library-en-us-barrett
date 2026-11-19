@@ -70,11 +70,6 @@ meMA.Ode3Kathisma1.melody = he.a.m8_en_US_barrett.heAU.TinSofianKaiLogon.notmete
 meMA.Ode3Kathisma1.incipit = "All-praised Andrew…"
 meMA.Ode3Kathisma1.text = "All-praised Andrew, divine light shone in your heart, and you poured out visions of right teachings while illuminating the entire world. You were the divine instrument of the Spirit, bringing joy to every heart with your sweetest songs, singing hymns to God the Trinity, all of the orders of Saints, and the immaculate Virgin. Intercede with Christ our God that He grant forgiveness of all offences to those who commemorate you with faith and love."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_US_barrett.heAU.TinSofianKaiLogon.notmetered
-meMA.Ode3KathismaT.incipit = me.m07.d01_en_US_barrett.meMA.Ode3KathismaT.incipit
-meMA.Ode3KathismaT.text = me.m07.d01_en_US_barrett.meMA.Ode3KathismaT.text
-
 meMA.Ode4C11.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode4C11.greekmelody = he.h.m5_en_US_barrett.heHE.TinTheianEnnoisas.greekname
